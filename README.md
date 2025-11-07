@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Quang Vu</h1>
-<h3 align="center">Second-year Computer Engineering student at University of Information Technology (VNU-HCM)</h3>
+<h3 align="center">Third-year Computer Engineering student at University of Information Technology (VNU-HCM)</h3>
 
 - 📫 How to reach me **phamquangvu1002@gmail.com**
 
