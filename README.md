@@ -32,7 +32,3 @@ I am particularly interested in the physical layout implementation of chips, whe
 * **Circuit & PCB Design:** HSPICE, LTSpice, Galaxy Custom Designer, Altium Designer
 * **Development:** Visual Studio Code
 
----
-
-### 📈 GitHub Stats
-![Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamquangvu&show_icons=true&theme=transparent)
