@@ -23,15 +23,15 @@ I actively participate in laboratory work and academic projects to prepare mysel
 
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/phamquangvu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phamquangvu" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phamquangvu" height="30" width="40" />
 </a>
 <a href="https://fb.com/phmqngvu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phmqngvu" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phmqngvu" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@phmqngvu" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="30" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="30" width="40" />
 </a>
 </p>
 
@@ -39,7 +39,7 @@ I actively participate in laboratory work and academic projects to prepare mysel
 
 ### 🛠 Languages and Tools
 
-<p align="left">
+<p align="center">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
@@ -59,11 +59,3 @@ I actively participate in laboratory work and academic projects to prepare mysel
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 </p>
-
----
-
-### 🚀 Career Goal
-
-* 🎯 Physical Design Engineer (ASIC)
-* 🔍 Focus: Layout, Timing, Power Optimization
-* 📚 Continuously learning VLSI Design & Semiconductor Technology
